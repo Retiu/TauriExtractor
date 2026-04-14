@@ -9,3 +9,6 @@ pip install brotli
 
 ## Usage ##
 python extract_tauri.py <file.exe>
+
+## Documentation ##
+Proper documentation will come later
