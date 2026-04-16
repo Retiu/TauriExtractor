@@ -13,3 +13,6 @@ python extract_tauri.py <file.exe>
 
 ## Documentation ##
 Proper documentation will come later
+
+## Testing ##
+This tool was tested with the Steam game [Waifu/Clicker Cuties](https://store.steampowered.com/app/3188910/Clicker_Cuties__Anime_Idler/), if there's any more games or programs using the Tauri v2 framework, feel free to reach out to me for testing so I can update the script incase stuff does not work.
